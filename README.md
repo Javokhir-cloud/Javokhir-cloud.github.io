@@ -3,5 +3,5 @@
 
 
 # Javokhir Khudaybergenov
-[my first public cite](Javokhir-cloud.github.io/src/index.html)
+[link](https://javokhir-cloud.github.io/src/index.htmll)
 

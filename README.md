@@ -1,2 +1,7 @@
-# Javokhir.github.io
-Мой первый опубликованный сайт
+
+
+
+
+# Javokhir Khudaybergenov
+
+
